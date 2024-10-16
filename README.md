@@ -1,2 +1,3 @@
-# GUAC_setup
-GUAC setup instructions for student researchers
+# GUAC Set up Instructions for Research Assistants
+
+These instructions are for Ubuntu.
