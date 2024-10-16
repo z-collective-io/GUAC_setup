@@ -11,6 +11,13 @@ Follow the instructions in the following pages to create an SSH key (estimated t
 
 # Part 1: Install Required Packages
 
+## SSH to your Droplet (VM)
+Open a command prompt or terminal and run:
+```bash
+ssh -i <path_to_your_ssh_key> root@<ip_address_of_the_droplet>
+```
+You can find the IP address of the droplet in the console by clicking on the droplet name.
+
 ## Docker
 
 Set up Docker’s `apt`  repository
